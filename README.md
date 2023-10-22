@@ -14,7 +14,7 @@
 
 <img height="32" width="32" src="https://cdn.simpleicons.org/javascript" /><img height="32" width="32" src="https://cdn.simpleicons.org/typescript" />
 
-<img height="32" width="32" src="https://cdn.simpleicons.org/react" /><img height="32" width="32" src="https://cdn.simpleicons.org/react" /><img height="32" width="32" src="https://cdn.simpleicons.org/html5" /><img height="32" width="32" src="https://cdn.simpleicons.org/angular" /><img height="32" width="32" src="https://cdn.simpleicons.org/angularjs" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/react" /><img height="32" width="32" src="https://cdn.simpleicons.org/html5" /><img height="32" width="32" src="https://cdn.simpleicons.org/angular" /><img height="32" width="32" src="https://cdn.simpleicons.org/angularjs" />
 
 <img height="32" width="32" src="https://cdn.simpleicons.org/node.js" /><img height="32" width="32" src="https://cdn.simpleicons.org/express" /><img height="32" width="32" src="https://cdn.simpleicons.org/nestjs" />
 
